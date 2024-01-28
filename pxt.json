@@ -1,0 +1,17 @@
+{
+    "name": "My First tutorial",
+    "version": "1.2.3",
+    "description": "",
+    "license": "MIT",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "conditionals.md",
+    ],
+    "testFiles": [],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
