@@ -1,10 +1,35 @@
-# My Tutorial
+# Minecraft Education Edition Tutorials the relevant one
 
-## Step 1
+```template
+let x : number = 0
+```
 
-Here is some text.
+## Step 1: Welcome to the Tutorial @showdialog
 
-## Step 2
+My first screen
 
-Congratulations, you did it!
+
+## Player Event Driven Blocks
+
+Coders can use player events to execute a block of code.
+Some different stuff
+
+
+```typescript
+player.onChat("hello", function() {
+})
+player.onItemInteracted(IRON_SHOVEL, function() {
     
+})
+blocks.place(STONE, pos(0, 0, 0))
+```
+
+
+
+## Step 3: Run your code
+
+Put some blocks onto the stage
+
+This is really hard
+
+Click the run button
