@@ -1,14 +1,23 @@
 {
-    "name": "MyFirst Tutorial",
+    "name": "MinecraftEDUtutorials",
     "version": "0.0.3",
     "description": "",
     "dependencies": {
         "core": "*",
+        "builder": "*"
     },
     "files": [
         "README.md",
         "main.ts",
-        "conditionals.md",
+        "calculator.md",
+        "variables.md",
+        "functions.md",
+        "usingfunctions.md",
+        "editor.md",
+        "commands.md",
+        "strings.md",
+        "editor.md"
+
     ],
     "testFiles": [
 	"test.js" 
