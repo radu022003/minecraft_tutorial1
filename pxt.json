@@ -1,10 +1,9 @@
 {
-    "name": "MinecraftEDUtutorials",
+    "name": "MyFirst Tutorial",
     "version": "0.0.3",
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
     },
     "files": [
         "README.md",
