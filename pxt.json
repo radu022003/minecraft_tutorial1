@@ -1,17 +1,21 @@
 {
-    "name": "My First tutorial",
-    "version": "1.2.3",
+    "name": "MinecraftEDUtutorials",
+    "version": "0.0.3",
     "description": "",
-    "license": "MIT",
     "dependencies": {
-        "device": "*"
+        "core": "*",
+        "builder": "*"
     },
     "files": [
-        "conditionals.md",
+        "README.md",
+        "main.blocks",
     ],
-    "testFiles": [],
+    "testFiles": [
+	"test.js" 
+    ],
+    "public": true,
     "supportedTargets": [
-        "arcade"
+        "minecraft"
     ],
     "preferredEditor": "blocksprj"
 }
